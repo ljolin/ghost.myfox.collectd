@@ -1,0 +1,5 @@
+shcp_incoming               value:GAUGE:0:65535
+shcp_outgoing               value:GAUGE:0:65535
+websocket_incoming               value:GAUGE:0:65535
+websocket_outgoing               value:GAUGE:0:65535
+
